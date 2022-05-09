@@ -10,3 +10,6 @@ A simple calendar appl that lets a user save events for each hour of the work da
 * Javascript
 * Node.Js
 * jQuery
+
+## Website
+https://gi0313.github.io/work-day-scheduler/
